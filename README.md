@@ -5,13 +5,11 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubcodes&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
-
-  <img align="center" alt="Ju-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-          
-   <img  src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)" />
-  <img align="center" alt="Ju-C" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" />         
+  
+  <img align="center" alt="Ju-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Ju-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
   <img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;"
+  <img align="right" alt="Ju-Pic" height="150" style="border-radius:50;"
   src="https://i.imgur.com/itNNBhx.gif">
 </div>
  
