@@ -1,8 +1,8 @@
 ## 👋🏻 Olá! Sou a Julia Victoria, estou no 2° semestre do curso de Tecnologia em Sistemas de Informação
  <div>
    <a href="https://github.com/jubcodes">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jubcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubcodes&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jubcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubcodes&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
     
