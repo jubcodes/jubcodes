@@ -9,8 +9,8 @@
   <img align="center" alt="Ju-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
   <img align="center" alt="Ju-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="right" alt="Ju-Pic" height="150" style="border-radius:50;"
-  src="https://i.imgur.com/itNNBhx.gif">
+  <img align="center" alt="Ju-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="right" alt="Ju-Pic" height="150" style="border-radius:50;" src="https://i.imgur.com/itNNBhx.gif">
 </div>
  
   ##
