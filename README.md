@@ -3,9 +3,10 @@
    <a href="https://github.com/jubcodes">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jubcodes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubcodes&layout=compact&langs_count=6&theme=midnight-purple"/>
-
 </div>
-    <br>
+    
+<br>
+    
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Ju-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -16,7 +17,6 @@
 </div>
  
 <br>
-<br>
 
 ### Me segue a gente nas redes abaixo!
   
@@ -26,5 +26,4 @@
   <a href="https://www.linkedin.com/in/juliavictoria5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/jubcodes/jubcodes/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
